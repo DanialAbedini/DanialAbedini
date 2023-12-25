@@ -10,4 +10,6 @@
 
 ---
 
-<a href="https://github.com/danialabedini"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanialAbedini&repo=github-readme-stats&cache_seconds=86400&theme=synthwave"/></a>
+![synthwave](https://github-readme-stats.vercel.app/api?username=DanialAbedini&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanialAbedini&layout=compact)
